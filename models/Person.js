@@ -20,7 +20,7 @@ const PersonSchema = new Schema({
     },
     profilepic: {
         type: String,
-        default: 'https://cdn-icons-png.flaticon.com/512/456/456212.png',
+        default: 'This is my pic',
     },
     date:{
         type: Date,
